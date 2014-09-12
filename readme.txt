@@ -8,6 +8,11 @@ yes!
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
 =======
+<<<<<<< HEAD
 >>>>>>> issue-101
 Creating a new branch is quick and simple.
 hello!
+=======
+Creating a new branch is quick And simple.
+>>>>>>> feature1
+>>>>>>> issue-101
